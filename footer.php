@@ -1,5 +1,5 @@
 <footer>
-	<p>Detta är foten...</p>
+	<p>Där foten är...</p>
 </footer>
 </body>
 </html>
