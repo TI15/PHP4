@@ -33,7 +33,7 @@ else {
 
 				}
 				echo "</ul>";
-				echo "<a href='uppgift25sept.php'>tillbaka</a> ";
+				echo "<a href='uppgift25sep.php'>tillbaka</a> ";
 		}
 	} 
 } 
